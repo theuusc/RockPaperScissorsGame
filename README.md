@@ -84,9 +84,13 @@ To try the Rock-Paper-Scissors Game, follow these steps:
 ## Next steps
 - [ ] Create a graphic interface
 
+
+
 ## Contributing
 
 Contributions to the Rock-Paper-Scissors Game are welcome! If you have ideas for improvements or would like to contribute to the code, feel free to submit a pull request.
+
+
 
 ## License
 
