@@ -11,7 +11,7 @@ Welcome to the Rock-Paper-Scissors Game! Everyone has played a game of rock, pap
 - <a href="#contributing"> Contributing </a>
 - <a href="#license"> License </a>
 
-<br><br><br>
+<br><br>
 ## Project features
 - [x] The application show the options available.
 - [x] The application reveal the choosed option.
