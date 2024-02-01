@@ -11,15 +11,18 @@ Welcome to the Rock-Paper-Scissors Game! Everyone has played a game of rock, pap
 - <a href="#contributing"> Contributing </a>
 - <a href="#license"> License </a>
 
+<br><br><br>
 ## Project features
 - [x] The application show the options available.
 - [x] The application reveal the choosed option.
 - [x] The application inform the result of who won.
 - [x] The application asks if the player wants to play again, if 'yes' the game reset if 'no' the game shall close.
 
+<br><br><br>
 ## Demonstration
 ![simulation](https://github.com/theuusc/RockPaperScissorsGame/README/assets/130078547/b66dbdaa-cea6-48f9-81ad-4d216223179e)
 
+<br><br><br>
 ## How to Play
 
 1. **Welcome Message:**
@@ -54,6 +57,7 @@ Welcome to the Rock-Paper-Scissors Game! Everyone has played a game of rock, pap
      - Type `y` for Yes
      - Type `n` for No
 
+<br><br><br>
 ## Getting Started
 
 To try the Rock-Paper-Scissors Game, follow these steps:
@@ -80,14 +84,17 @@ To try the Rock-Paper-Scissors Game, follow these steps:
 5. **Play the Game:**
    - Follow the on-screen instructions to make your move (rock, paper, or scissors).
    - See if you can beat the computer!
-  
+
+<br><br><br>
 ## Next steps
 - [ ] Create a graphic interface
-
+      
+<br><br><br>
 ## Contributing
 
 Contributions to the Rock-Paper-Scissors Game are welcome! If you have ideas for improvements or would like to contribute to the code, feel free to submit a pull request.
-<br><br>
+
+<br><br><br>
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE). You are free to use, modify, and distribute the code with appropriate attribution.
