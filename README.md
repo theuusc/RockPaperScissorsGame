@@ -9,7 +9,7 @@ Welcome to the Rock-Paper-Scissors Game! Everyone has played a game of rock, pap
 - <a href="#-starting"> Getting Started </a>
 - <a href="#-next"> Next Steps </a>
 - <a href="#-contributing"> Contributing </a>
-- <a href="License"> License </a>
+- <a href="license"> License </a>
 
 ## Project features
 - [x] The application show the options available.
