@@ -6,8 +6,8 @@ Welcome to the Rock-Paper-Scissors Game! Everyone has played a game of rock, pap
 - <a href="#features"> Project features </a>
 - <a href="#demonstration"> Demonstration </a>
 - <a href="#playing"> How to play </a>
-- <a href="#starting"> Getting Started </a>
-- <a href="#next"> Next Steps </a>
+- <a href="#started"> Getting Started </a>
+- <a href="#next-steps"> Next Steps </a>
 - <a href="#contributing"> Contributing </a>
 - <a href="#license"> License </a>
 
