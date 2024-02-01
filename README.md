@@ -51,7 +51,7 @@ To try the Rock-Paper-Scissors Game, follow these steps:
    - Navigate to the project directory.
    - Run the game using the following command:
      ```bash
-     python game.py
+     python rpsgame.py
      ```
 
 4. **Play the Game:**
@@ -65,7 +65,3 @@ Contributions to the Rock-Paper-Scissors Game are welcome! If you have ideas for
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE). You are free to use, modify, and distribute the code with appropriate attribution.
-
----
-
-Replace `#` in the "Access Google Drive" section with the actual link to your Google Drive containing the project files. Adjust any other details to accurately reflect your project.
