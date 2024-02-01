@@ -3,10 +3,10 @@
 Welcome to the Rock-Paper-Scissors Game! Everyone has played a game of rock, paper, scissors at least once, and now you can try to beat the machine in this classic showdown. This project is entirely developed in Python and provides an interactive terminal interface for users.
 
 ## Index
-- <a href="#features"> Project features </a>
+- <a href="#project-features"> Project features </a>
 - <a href="#demonstration"> Demonstration </a>
-- <a href="#playing"> How to play </a>
-- <a href="#started"> Getting Started </a>
+- <a href="#how-to-play"> How to play </a>
+- <a href="#getting-started"> Getting Started </a>
 - <a href="#next-steps"> Next Steps </a>
 - <a href="#contributing"> Contributing </a>
 - <a href="#license"> License </a>
