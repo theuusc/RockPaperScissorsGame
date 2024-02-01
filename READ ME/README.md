@@ -31,7 +31,7 @@ This game was completely developed with Python, which is a backend programming l
 
 
 ### Demonstration
-![simulation](https://github.com/Math2003s/RockPaperScissorsGame/assets/130078547/b66dbdaa-cea6-48f9-81ad-4d216223179e)
+![simulation](https://github.com/theuusc/RockPaperScissorsGame/assets/130078547/b66dbdaa-cea6-48f9-81ad-4d216223179e)
 
 ## Next steps
 - [ ] Create a graphic interface
