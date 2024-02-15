@@ -28,8 +28,8 @@ This is a simple Rock, Paper, Scissors game developed in Python using the PySimp
 
 ## Getting Started
 
-1. Access: https://drive.google.com/file/d/1AXSuBQwAP8wENvAZaLajtwXfIOcg0Evk/view?usp=sharing
-
+1. Access: https://drive.google.com/drive/folders/1sUbGhfcdeOUwwWqV39hO3UvD8bqeE-tZ?usp=sharing
+   
 2. Download the Rock Paper Scissors executable. 
 
 3. Have fun playing the game.
