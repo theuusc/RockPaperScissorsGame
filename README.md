@@ -1,100 +1,65 @@
-# Rock-Paper-Scissors Game
+# Rock Paper Scissors Game
 
-Welcome to the Rock-Paper-Scissors Game! Everyone has played a game of rock, paper, scissors at least once, and now you can try to beat the machine in this classic showdown. This project is entirely developed in Python and provides an interactive terminal interface for users.
+## Overview
+
+This is a simple Rock, Paper, Scissors game developed in Python using the PySimpleGUI library for creating a graphical user interface. The game also incorporates the `randint` function for randomizing the computer's choice and the `sleep` function for creating a smooth animation effect.
 
 ## Index
-- <a href="#project-features"> Project features </a>
-- <a href="#demonstration"> Demonstration </a>
-- <a href="#how-to-play"> How to play </a>
+- <a href="#technologies"> Technologies </a>
+- <a href="#features"> Features </a>
 - <a href="#getting-started"> Getting Started </a>
-- <a href="#next-steps"> Next Steps </a>
+- <a href="#how-to-play"> How to play </a>
+- <a href="#demonstration"> Demonstration </a>
 - <a href="#contributing"> Contributing </a>
 - <a href="#license"> License </a>
 
-<br><br>
-## Project features
-- [x] The application show the options available.
-- [x] The application reveal the choosed option.
-- [x] The application inform the result of who won.
-- [x] The application asks if the player wants to play again, if 'yes' the game reset if 'no' the game shall close.
 
-<br><br>
-## Demonstration
-![simulation](https://github.com/theuusc/RockPaperScissorsGame/README/assets/130078547/b66dbdaa-cea6-48f9-81ad-4d216223179e)
+## Technologies
 
-<br><br>
-## How to Play
+- **Python:** Primary programming language.
+- **PySimpleGUI:** Library used for creating the graphic interface.
 
-1. **Welcome Message:**
-   - The game starts with a welcome message displaying the available options:
-     - Type `0` for Rock
-     - Type `1` for Paper
-     - Type `2` for Scissors
+## Features
 
-2. **Player's Turn:**
-   - The player is asked to choose an option by typing `0` for Rock, `1` for Paper, or `2` for Scissors.
+- Simple and intuitive graphical user interface.
+- Computer's move is randomized using the `randint` function.
+- Smooth animation effect using the `sleep` function.
+- Score counting.
 
-3. **Gameplay:**
-   - The player and the computer each make their move.
-   - The winner is determined based on the following rules:
-     ```python
-     if computer == 0:
-         # Rules for Rock
-         # ...
-
-     elif computer == 1:
-         # Rules for Paper
-         # ...
-
-     elif computer == 2:
-         # Rules for Scissors
-         # ...
-     ```
-
-4. **Game Over:**
-   - After three rounds, the game is over.
-   - The player is prompted to choose whether to play again.
-     - Type `y` for Yes
-     - Type `n` for No
-
-<br><br>
 ## Getting Started
 
-To try the Rock-Paper-Scissors Game, follow these steps:
+1. Access: https://drive.google.com/file/d/1AXSuBQwAP8wENvAZaLajtwXfIOcg0Evk/view?usp=sharing
 
-1. **Access Google Drive:**
-   - [Google Drive Link](https://drive.google.com/drive/folders/15SfSYauucn_aS8DY9PCT9blIsXXa2rX2)
+2. Download the Rock Paper Scissors executable. 
 
-2. **Download Project Files:**
-   - Download the project files from the Google Drive link.
+3. Have fun playing the game.
 
-3. **Run the Game:**
-   
-   Option 1:
-   - After downloading the file, open it and execute the "rpsgame".
-     
-   Option 2:
-   - Open your terminal.
-   - Navigate to the project directory.
-   - Run the game using the following command:
-     ```bash
-     python rpsgame.py
-     ```
+4. Disclaimer: if your antivirus reports a problem, It's because executable files created with PyInstaller or similar tools may use compression techniques to bundle everything into a single file. Some antivirus programs might flag compressed files as potentially harmful. But don't worry, all python code and the tools I use to create executables are from reputable and trustful sources.
 
-5. **Play the Game:**
-   - Follow the on-screen instructions to make your move (rock, paper, or scissors).
-   - See if you can beat the computer!
+## How to Play
 
-<br><br>
-## Next steps
-- [ ] Create a graphic interface
-      
-<br><br>
+1. The game window will appear, allowing you to select Rock, Paper, or Scissors.
+
+2. After making your selection, the computer will randomly choose its move with a smooth animation effect.
+
+3. The result will be displayed indicating who won the match or if it's a tie.
+
+4. The score will be displayed at the bottom of the result.
+
+5. You can choose to play again, once you clicked on the `play again` button the game will restart the score to 0.
+
+6. If you dont wanna play more, just click on the `exit` button and the game will automatically close.
+
+## Demonstration
+
+https://github.com/theuusc/RockPaperScissorsGame/assets/130078547/3e80e81e-1526-4d0b-a295-d648c791d902
+
 ## Contributing
 
 Contributions to the Rock-Paper-Scissors Game are welcome! If you have ideas for improvements or would like to contribute to the code, feel free to submit a pull request.
 
-<br><br>
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE). You are free to use, modify, and distribute the code with appropriate attribution.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Feel free to fork, modify, and use this code for educational purposes or as a starting point for your projects. Happy gaming!
